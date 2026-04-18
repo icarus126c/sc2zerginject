@@ -1,6 +1,18 @@
 # SC2 Zerg Inject Evaluator
 
-This is a small command-line tool for evaluating StarCraft II Zerg inject quality.
+这是一个用于评估《星际争霸2》虫族喷卵质量的小工具，支持回放解析、喷卵评分、幼虫累计时间线和 Windows GUI。
+
+中文说明请看：
+
+- [README.zh-CN.md](C:/Users/qq563/Documents/codex1/README.zh-CN.md)
+
+Windows GUI 打包版请看：
+
+- [release/sc2_inject_evaluator_gui_windows.zip](C:/Users/qq563/Documents/codex1/release/sc2_inject_evaluator_gui_windows.zip)
+
+Quick summary:
+
+This is a small tool for evaluating StarCraft II Zerg inject quality from JSON input, replay files, or replay folders. It also includes a Windows GUI build for double-click use.
 
 It now supports two input modes:
 
