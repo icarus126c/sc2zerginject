@@ -1,0 +1,43 @@
+{
+  "match_end": 480,
+  "hatcheries": [
+    {
+      "id": "Main",
+      "active_from": 0,
+      "inject_times": [32, 64, 96, 128, 165, 198, 233, 265, 299, 335, 370, 405, 439],
+      "larva_samples": [
+        { "time": 60, "larva": 3 },
+        { "time": 120, "larva": 4 },
+        { "time": 180, "larva": 7 },
+        { "time": 240, "larva": 5 },
+        { "time": 300, "larva": 8 },
+        { "time": 360, "larva": 6 },
+        { "time": 420, "larva": 4 }
+      ]
+    },
+    {
+      "id": "Natural",
+      "active_from": 65,
+      "inject_times": [101, 139, 177, 219, 257, 301, 343, 389, 436],
+      "larva_samples": [
+        { "time": 120, "larva": 2 },
+        { "time": 180, "larva": 5 },
+        { "time": 240, "larva": 8 },
+        { "time": 300, "larva": 9 },
+        { "time": 360, "larva": 6 },
+        { "time": 420, "larva": 7 }
+      ]
+    },
+    {
+      "id": "Third",
+      "active_from": 170,
+      "inject_times": [212, 257, 301, 350, 402],
+      "larva_samples": [
+        { "time": 240, "larva": 5 },
+        { "time": 300, "larva": 7 },
+        { "time": 360, "larva": 11 },
+        { "time": 420, "larva": 10 }
+      ]
+    }
+  ]
+}
